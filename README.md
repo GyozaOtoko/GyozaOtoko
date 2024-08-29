@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GyozaOtoko
+- 👋 Hi, I’m **@GyozaOtoko**
 - 👀 I’m interested in **world domination**
 - 🌱 I’m currently learning **how to build a startup and run spaces on X**
 - 💞️ I’m looking to collaborate on **building a startup and running spaces on X**
