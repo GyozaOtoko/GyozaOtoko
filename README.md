@@ -1,9 +1,8 @@
 - 👋 Hi, I’m **@GyozaOtoko**
-- 👀 I’m interested in **world domination**
-- 🌱 I’m currently learning **how to build a startup**
-- 💞️ I’m looking to collaborate on **building a startup and building web2 and web3 projects**
+- 👀 I’m interested in **code domination**
+- 💞️ I’m looking to collaborate on **building web2 and web3 projects**
 - 📫 How to reach me
-  - Twitter/X: **@gyozaotoko4596** and **@NatmonkeysDMT**
+  - Twitter/X: **@gyozaotoko4596**
   - Tg: **@gyozaotoko**
   - Discord: **@gyozaotoko**  
 
